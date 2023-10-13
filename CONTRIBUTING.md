@@ -9,3 +9,6 @@
 
 3. Have fun!
    Feel free to expand on the project, add variations, changes, bug fixes, etc. but most of all have fun! 
+
+
+#### If you aren't sure how to make a pull request checkout the README.md file for a step by step tutorial :) 
